@@ -8,3 +8,8 @@
   - 何日前にリマインドするかを設定できる
 
 - プレゼントなどメモする機能
+
+## tec
+
+react native
+push notify
